@@ -1,0 +1,5 @@
+100 thomas  sales       $5000
+200 jhon    training    $6500
+300 sachin  technology  $7000
+400 nisha   technology  $9500
+500 ramesh  marketing   $1000

@@ -1,0 +1,2 @@
+Login     Name       Tty      Idle  Login Time   Office     Office Phone
+student   student    tty7     6:07  Oct 13 08:54 (:0)
